@@ -1,1 +1,1 @@
-# softUni
+# Java Fundamentals
